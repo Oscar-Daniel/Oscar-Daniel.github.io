@@ -1,0 +1,13 @@
+.Perfil {
+    display: grid;
+    grid-auto-flow: column;
+    width: fit-content;
+    margin: auto;
+}
+.Perfil_img {
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 3px 4px 7px;
+    align-self: center;
+    margin-right: 1.25em;
+}

@@ -1,0 +1,49 @@
+.ModalElectivos_container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .ModalElectivos {
+    background-color: #ffffff;
+    padding: 1em 2em;
+    border-radius: 7px;
+    box-shadow: 0px 0px 20px 4px;
+    position: relative;
+    height: 520px;
+    width: 90%;
+    text-align: center;
+    /* overflow: overlay; */
+  }
+  .Modal_Xbutton {
+    background-color: #137ea1c4;
+    font-weight: bolder;
+    font-size: 16px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    padding: 4px 12px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .ModalElectivos_AlmacenContainer {
+    overflow: overlay;
+    height: 440px;
+    padding: 10px;
+    padding-right: 20px;
+  }
+  .ModalElectivos_Almacen {
+    /* display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, 140px); */
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+    }

@@ -1,0 +1,6 @@
+.Sumillas {
+    display: grid;
+    grid-auto-flow: column;
+    grid-gap: 60px;
+    padding: 1em;
+}

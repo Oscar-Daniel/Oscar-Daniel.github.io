@@ -1,26 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Sumillas from './components/containers/Sumillas'
+import Perfil from './components/containers/Perfil'
+import ModalElectivos from './components/containers/ModalElectivos'
+import { cambiarNombre } from './actions'
 
-function App() {
+import { connect } from 'react-redux'
+
+function App(props) {
+  const hombrePerfil = prompt("¿Cuál es tu nombre?", "Usuario");
+  props.cambiarNombre(hombrePerfil)
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Perfil />
+      <Sumillas />
+      <ModalElectivos />
     </div>
   );
 }
 
-export default App;
+const mapDispatchToProps = {
+  cambiarNombre
+}
+
+export default connect(null, mapDispatchToProps)(App);

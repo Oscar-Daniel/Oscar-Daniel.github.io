@@ -1,0 +1,31 @@
+
+.Electivo {
+    border-radius: 20px;
+    box-shadow: 2.5px 2.5px 5px 1px;
+    padding: 12px 6px;
+    background: green;
+    text-align: center;
+    width: 140px;
+    margin: 5px;
+    position: relative;
+}
+.Electivo h5 {
+    margin: 0;
+}
+.Electivo h5:first-child {
+    margin-top: 10px;
+}
+.Electivo h4 {
+    margin: 8px;
+}
+.Electivo_credReq {
+    position: absolute;
+    top: -12px;
+    left: -23px;
+    padding: 4px;
+    border-radius: 16px;
+    font-weight: bold;
+}
+.Electivo_credReq:empty {
+    display: none;
+}
