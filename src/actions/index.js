@@ -1,3 +1,18 @@
+import { schema, normalize } from 'normalizr';
+import dataInformatica from '../data/informatica/index.json'
+import dataIndustrial from '../data/industrial/index.json'
+import eInformatica from '../data/informatica/electivos.json'
+import eIndustrial from '../data/industrial/electivos.json'
+
+const arrData = {
+    informatica: dataInformatica,
+    industrial: dataIndustrial
+}
+const arrElectivo = {
+    informatica: eInformatica,
+    industrial: eIndustrial
+}
+
 export const modificarCreditos = () => (dispatch, getState) => {
     const cursos = getState().getIn(["data", "entities", "cursos"])
     let totalDeCreditos = 0;
@@ -121,12 +136,39 @@ export const cambiarNombre = (nombre) => dispatch => {
 }
 
 export const buscarDataEspecialidad = esp => dispatch => {
+    const data = arrData[esp]
+    const electivo = arrElectivo[esp]
+    const dataNormalizada = optenerDataNormalizada(data)
+    const electivosNormalizados = optenerElectivosNormalizados(electivo)
+    dispatch({
+        type: 'DATA',
+        payload: dataNormalizada
+    })
+    dispatch({
+        type: 'ELECTIVOS',
+        payload: electivosNormalizados
+    })
+}
 
-    // const response = await fetch(`https://github.com/Oscar-Daniel/API-server/blob/master/${esp}.json`)
-    // const data = response.json()
-    // console.log(data)
-    // dispatch({
-    //     type: 'DATA',
-    //     payload: data
-    // })
+function optenerDataNormalizada (data) {
+    const curso = new schema.Entity("cursos", {}, {
+        idAttribute: 'codigo',
+    });
+    const ciclo = new schema.Entity("ciclos", {cursos: new schema.Array(curso)})
+    const ciclos = {ciclos: new schema.Array(ciclo)}
+    
+    const dataNormalizada = normalize(data, ciclos)
+    return dataNormalizada
+}
+function optenerElectivosNormalizados (data) {
+    const electivo = new schema.Entity("electivos", {}, {
+        idAttribute: 'codigo',
+    });
+    const grupoElectivo = new schema.Entity("gruposElectivos", {cursos: new schema.Array(electivo)}, {
+        idAttribute: 'grupoElectivo',
+    })
+    const gruposElectivos = {gruposElectivos: new schema.Array(grupoElectivo)}
+    
+    const electivosNormalizados = normalize(data, gruposElectivos)
+    return electivosNormalizados
 }

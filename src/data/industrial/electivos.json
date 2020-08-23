@@ -526,7 +526,7 @@
                     "descripcion": "",
                     "creditosReq": "0",
                     "requisitos": [],
-                    "simultaneo": ["IND292"]
+                    "simultaneo": ["IND292", "IND282"]
                 },
                 {
                     "codigo": "ING301",

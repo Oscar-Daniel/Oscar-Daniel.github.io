@@ -38,7 +38,7 @@ class Electivo extends React.Component {
                         }
                             { (Number(this.props.simultaneo.size)!==0) && this.props.simultaneo.map((codigo, index) => {
                                 const comma = (index<this.props.simultaneo.size-1)? ', ' : '';
-                                return `[${codigo}${comma}]`;
+                                return `[${codigo}]${comma}`;
                             })
                         }
                         { (Number(this.props.creditosReq)!==0) && this.props.creditosReq + "cdts."}

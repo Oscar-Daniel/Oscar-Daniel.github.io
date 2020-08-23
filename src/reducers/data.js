@@ -12,7 +12,8 @@ export default function data (state = initial_state, action) {
         case 'MODIFICAR_APROBADO':
             return state.setIn(['entities', 'cursos', action.payload.id, 'aprobado'], action.payload.aprob)
         case 'DATA':
-            return state.set(...action.payload)
+            const data = action.payload
+            return state.set('entities', fromJS(data.entities))
         // case 'MODIFICAR_VALORES_ELECTIVO':
         //     const {nombre, creditos, creditosReq, requisitos, simultaneo } = action.payload.nuevosDatos
 

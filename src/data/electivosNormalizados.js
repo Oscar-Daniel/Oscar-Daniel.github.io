@@ -12,6 +12,6 @@ const gruposElectivos = {gruposElectivos: new schema.Array(grupoElectivo)}
 
 const electivosNormalizados = normalize(data, gruposElectivos)
 
-console.log('electivosNormalizados', electivosNormalizados)
+// console.log('electivosNormalizados', electivosNormalizados)
 
 export default electivosNormalizados;

@@ -9,6 +9,6 @@ const ciclos = {ciclos: new schema.Array(ciclo)}
 
 const dataNormalizada = normalize(data, ciclos)
 
-console.log('dataNormalizada', dataNormalizada)
+// console.log('dataNormalizada', dataNormalizada)
 
 export default dataNormalizada;
