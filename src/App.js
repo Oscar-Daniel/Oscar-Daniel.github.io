@@ -1,26 +1,19 @@
 import React from 'react';
-import './App.css';
-import Sumillas from './components/containers/Sumillas'
-import Perfil from './components/containers/Perfil'
-import ModalElectivos from './components/containers/ModalElectivos'
-import { cambiarNombre } from './actions'
+import Home from './pages/Home'
+import EspecialidadPage from './pages/EspecialidadPage'
+import { BrowserRouter, Switch, Route } from 'react-router-dom'
 
-import { connect } from 'react-redux'
-
-function App(props) {
-  const hombrePerfil = prompt("¿Cuál es tu nombre?", "Usuario");
-  props.cambiarNombre(hombrePerfil)
+function App () {
+  // const hombrePerfil = prompt("¿Cuál es tu nombre?", "Usuario");
+  // props.cambiarNombre(hombrePerfil)
   return (
-    <div className="App">
-      <Perfil />
-      <Sumillas />
-      <ModalElectivos />
-    </div>
+    <BrowserRouter>
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route exact path="/:esp" component={EspecialidadPage} />
+      </Switch>
+    </BrowserRouter>
   );
 }
 
-const mapDispatchToProps = {
-  cambiarNombre
-}
-
-export default connect(null, mapDispatchToProps)(App);
+export default App;

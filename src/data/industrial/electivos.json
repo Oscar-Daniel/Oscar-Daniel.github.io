@@ -1,0 +1,554 @@
+{
+    "gruposElectivos": [
+        {
+            "grupoElectivo": "Electivo Humanidades 1",
+            "cursos": [
+                {
+                    "codigo": "1HUM02",
+                    "nombre": "Ética y ciudadanía",
+                    "creditos": "2.00",
+                    "permitido": "0",
+                    "descripcion": "En el curso, a partir del desarrollo de enfoques teóricos básicos –como la ciudadanía democrática, la responsabilidad social y el desarrollo humano– y de una aproximación interdisciplinaria, se analizan diversos hechos y problemas con miras a la interpelación de nuestra realidad social, de nuestros diversos entornos y de nosotros mismos. En el marco del curso, se diseñan y ejecutan iniciativas que aportan en la confrontación de problemas que contradicen el ejercicio pleno de la ciudadanía en los entornos cercanos, permitiendo ello el desarrollo de la comunicación oral y escrita, así como de la argumentación de respuestas ante diversas situaciones.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1PSI03",
+                    "nombre": "Desarrollo de habilidades personales",
+                    "creditos": "2.00",
+                    "permitido": "0",
+                    "descripcion": "El curso tiene como propósito comprender el proceso de desarrollo tanto del sí mismo, como de la identidad personal y sociocultural. Se centrará en los mecanismos de construcción y ajuste de las representaciones del sí mismo, así como, en el desarrollo y reconocimiento de habilidades personales, sociales, metacognitivas, comunicativas y conversacionales. Para ello, se utilizará una metodología de trabajos individuales y grupales centrada en la reflexión, análisis y toma de conciencia de sus propios procesos.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1HIS02",
+                    "nombre": "Historia de la ciencia",
+                    "creditos": "2.00",
+                    "permitido": "0",
+                    "descripcion": "Los alumnos reciben, a través de las clases y de una bibliografía convenientemente seleccionada, adecuada orientación en temas de historia universal que exigen especial dedicación. El curso ofrece a los alumnos una visión de conjunto de significativos temas de la historia universal que se ubican en una secuencia temporal que parte desde los inicios de la civilización griega hasta los umbrales de la Edad Contemporánea. Se revisa temas tan importantes como el siglo de oro griego, el esplendor y caída del Imperio romano y otros, como el feudalismo, las ciudades, las universidades, el humanismo y el Renacimiento. En el curso mediante los talleres se desarrollan diversas competencias y capacidades que comprenden la comunicación oral y escrita haciendo énfasis en la argumentación de ideas.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1HIS03",
+                    "nombre": "Historia contemporánea",
+                    "creditos": "2.00",
+                    "permitido": "0",
+                    "descripcion": "Se presentan diversos temas de situaciones actuales para que el estudiante los relacione con sucesos importantes acaecidos a partir de la Primera Guerra Mundial, desde diferentes perspectivas: económicas, políticas, militares y sociales. Los talleres cumplen como fin el desarrollar en el estudiante la comunicación oral y escrita con especial interés en la argumentación de los temas expuestos.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1PSI02",
+                    "nombre": "Motivación y liderazgo personal",
+                    "creditos": "2.00",
+                    "permitido": "0",
+                    "descripcion": "El curso se plantea como propósito la comprensión y reflexión sobre los procesos motivacionales que permiten a las personas satisfacer necesidades psicológicas, como las de autonomía, competencia y relaciones interpersonales, entre otras. Con este fin se planteará una estrategia de metodológica que lleve a los estudiantes a la elaboración y ajuste del propio proyecto de vida profesional futuro y a la toma de decisiones reflexiva (informada) y autónoma.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                }
+            ]
+        },
+        {
+            "grupoElectivo": "Electivo Humanidades 2",
+            "cursos": [
+                {
+                    "codigo": "1ANT01",
+                    "nombre": "Antropología urbana",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "El curso desarrolla de manera teórico-práctica los elementos que se originan en la sociedad dentro de las ciudades, así como la expresión cultural que aparece en el contexto urbano a fin de entender la diversidad cultural y los retos que esta plantea a las nuevas generaciones. Para llevar a cabo este aprendizaje, se realizan debates, llevados a cabo en equipos de trabajo o individualmente, y trabajos escritos de forma que se desarrollen las competencias de comunicación oral y escrita, así como la de pensamiento crítico.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1LIT16",
+                    "nombre": "Literatura",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "El curso desarrolla de manera teórico-práctica la situación de la literatura del presente, y entrega al estudiante los medios para apreciar y criticar nuevas tendencias y personalidades literarias. En las sesiones prácticas, se conforman equipos de trabajo para la realización de debates y se realizan ensayos personales breves que permitan conocer el aprendizaje de cada estudiante. Así, se contribuirá al desarrollo de la comunicación oral y escrita.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1PSI04",
+                    "nombre": "Psicología",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "El tema central del curso es la psicología como ciencia que estudia a la persona en cuanto a sus procesos mentales y comportamentales, orientándose al análisis de temas tales como: el ciclo de la vida, los procesos cognitivos, la motivación, la personalidad, la adaptación y desadaptación, y los procesos sociales. Un conocimiento sistemático y general de la psicología resulta de vital importancia para la vida diaria, privada, familiar, académica o laboral. En ese sentido, se utilizará una serie de estrategias metodológicas (debates, ensayos, exposiciones, etc.) que permitirán comprender su propio comportamiento y el de los demás.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1SOC01",
+                    "nombre": "Sociología",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "El curso parte de un enfoque teórico-práctico que resalta el papel central de la disciplina sociológica en la comprensión de los aspectos organizativos, estructurales y culturales de las sociedades humanas en la historia contemporánea. A través de debates y trabajo en equipo, se analizan y discuten los problemas sociales a escala global y local, a la luz de los principales enfoques teóricos. Así, se contribuirá a desarrollar las competencias de pensamiento crítico, y de comunicación oral y escrita.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1ARQ11",
+                    "nombre": "Tecnología prehispánica",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "El curso desarrolla de forma teórico-práctica las herramientas prehispánicas (artefactos líticos y vasijas de cerámica), adaptaciones al medio ambiente y subsistencia (patrones de asentamiento, manejo y domesticación de plantas y animales), técnicas productivas de alimentos (agricultura y ganadería), explotación de recursos naturales (pesca, minería) y arquitectura (quincha, adobe y piedra). La arqueología y la ingeniería se relacionarán a través de la revisión de proyectos de extracción o aprovechamiento de recursos naturales. Para la evaluación, se considerará la participación activa, el trabajo en equipo, exposiciones y trabajos escritos que desarrollen la comunicación oral y escrita. Se incidirá también en la realización de debates que desarrollen el pensamiento crítico.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "CCO103",
+                    "nombre": "Taller de teatro",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "Se trata de una introducción a la teoría y práctica del teatro, tanto desde una perspectiva académica como vivencial. Se pondrá énfasis en el manejo conceptual de recursos que hacen posible el teatro en sus diferentes manifestaciones, sin descuidar una aproximación a la experiencia misma del quehacer teatral.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                }
+            ]
+        },
+        {
+            "grupoElectivo": "Electivo de teología y religión",
+            "cursos": [
+                {
+                    "codigo": "CDR121",
+                    "nombre": "Ciencia, ética y cristianismo",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "El curso está estructurado en tres unidades: la primera, aborda la correlación entre las ciencias, la ética y la dimensión religiosa de ser humano, dentro del panorama de las diferentes dimensiones del conocimiento; la segunda, profundiza en la ética primordialmente como una forma de pensar, de actuar e intervenir sobre la realidad; una forma de vivir y de realizarse personal y socialmente, y la tercera está centrada en la búsqueda de sentido y trascendencia de la persona a través de su dimensión religiosa y en particular del cristianismo. Se trata de que el estudiante adquiera un criterio propio y responsable sobre estas cuestiones situado en la realidad del Perú y mundo de hoy.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1CDR01",
+                    "nombre": "Cultura y cristianismo",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "El curso abarca dos grandes dimensiones de la existencia humana: La cultura y la fe. La cultura como matriz fundamental de la identidad para las personas, la relación con los demás y el sentido de vida para sus miembros. Por su parte, el cristianismo integra la dimensión de la fe al compromiso con el mundo y con los demás. Desde esta perspectiva se examina el nuevo contexto cultural hoy en día que, a partir de la modernidad, afecta al conjunto de la vida personal y social y, por tanto, también al hecho religioso. Se trata de analizar los desafíos de la cultura actual al pensamiento cristiano y el necesario diálogo que se establece entre ellos.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1TEO03",
+                    "nombre": "Fe en diálogo con el mundo contemporáneo",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "Para introducir al estudiante a la teología, el curso remite a una idea esencial: Dios se revela en nuestra historia. El curso presenta al Dios de la Biblia: “yo soy el que está” (YHWH). En este sentido, el curso presenta una idea de Dios que se caracteriza por comunicarse a los humanos. No solo comunica mensajes, se comunica a sí mismo. Lo hace de distintas maneras -a través de los profetas- en varios momentos hasta revelarse por medio de Jesús. Lo hace con acciones y con su Palabra. El curso busca mostrar el amor fiel de Dios por su pueblo y la humanidad, en especial por los pobres y los jóvenes. En Jesús Dios muestra su propio rostro, se hace carne humana y anuncia el Reino de Dios. Así, se busca que los estudiantes comprendan que por amor gratuito Dios da vida plena a los humanos con la muerte y resurrección de Jesús; y que dando su Espíritu, suscita la fe, habita en los creyentes y convoca a la Iglesia a ser signo misionero de su presencia en el mundo hasta hoy.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1TEO01",
+                    "nombre": "Ser humano y cristiano en el siglo XXI",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "La teología se entiende como “inteligencia de la fe”. El curso pretende lograr, en lo posible, que la fe sea razonada, crítica, responsable y madura. Se ofrece, fundamentalmente, la opción de fe que es el cristianismo. Se estudia en relación con la vida humana de Jesús y la forma concreta cómo el ser humano en la actualidad puede dar un sentido a su propia vida, lo que constituye en sí mismo un problema ético fundamental. Se aborda la respuesta cristiana desde la iniciativa de Dios que se revela en la historia y encuentra su plenitud en la persona de Jesucristo y su continuidad en la Iglesia. Finalmente, se ven las consecuencias para aquel que quiere ser auténticamente cristiano en la concreción de nuestro mundo, particularmente, en América Latina en el siglo XXI.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "CDR123",
+                    "nombre": "Pensamiento cristiano y realidad social",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "Se presentan las orientaciones provenientes del pensamiento cristiano a fin de afrontar los desafíos que plantean una selección de problemas sociales en el mundo de hoy. Para ello, se acude a buscar respuestas en la reflexión social cristiana que se ha desarrollado a lo largo de la historia, con un énfasis especial en los dos últimos siglos.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "TEO111",
+                    "nombre": "Teología 1",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "En el curso, la teología se entiende como “inteligencia de la fe” y pretende lograr, en lo posible, que esa fe, esa opción respecto a la orientación que cada uno da a su propia vida, sea realmente libre, consciente, razonada, responsable y madura, en búsqueda de la verdad de la realidad. Y se ofrece, fundamentalmente, en síntesis, la opción de fe que es el cristianismo. En la primera parte se estudia, en relación con la vida humana de Jesús, la forma concreta como el hombre busca dar un sentido a su propia vida. En la segunda parte se aborda la respuesta cristiana desde la iniciativa de Dios que encuentra su plenitud en la persona de Jesucristo y su continuidad en la Iglesia. Finalmente, se ven las consecuencias para aquel que quiere ser auténticamente cristiano en la concreción de nuestro mundo y, en particular, en América Latina.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1TEO02",
+                    "nombre": "Revelación de Dios en la historia",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "Tras presentar el sentido y tareas de la teología, el curso aborda el tema del diálogo entre la fe y el mundo contemporáneo, la relevancia del lenguaje simbólico como acercamiento al misterio de la realidad y la trascendencia. Profundiza en la tradición bíblica de la revelación de Dios en la Historia, que tiene su culmen en Jesús. El curso analiza también los desafíos del actual contexto histórico a la fe cristiana y la pertinencia de sus respuestas, que se orientan a la construcción de sociedades más justas y fraternas.",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": []
+                }
+            ]
+        },
+        {
+            "grupoElectivo": "Electivo Industrial",
+            "cursos": [
+                {
+                    "codigo": "DER348",
+                    "nombre": "Legislación Empresarial",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "160",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1IND01",
+                    "nombre": "Gestión de la Innovación y la Tecnología",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "1IND39",
+                    "nombre": "Logística Humanitaria",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND237",
+                    "nombre": "Ingeniería de Servicios",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND282"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND327",
+                    "nombre": "Planeamiento Estratégico",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND341",
+                    "nombre": "Organización y Métodos",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "160",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND345",
+                    "nombre": "Data Mining",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["1EST13"],
+                    "simultaneo": ["IND292"]
+                },
+                {
+                    "codigo": "IND347",
+                    "nombre": "Gestión de la Cadena de Suministros",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND350",
+                    "nombre": "Plan de Negocios",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND352",
+                    "nombre": "Procesos de Decisión",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND273", "1EST13"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND353",
+                    "nombre": "Seis Sigma",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND354",
+                    "nombre": "Simulación Avanzada",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND291"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND361",
+                    "nombre": "Gestión de Recursos Humanos",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND331"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND362",
+                    "nombre": "Mantenimiento Industrial",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "180",
+                    "requisitos": [],
+                    "simultaneo": ["IND270"]
+                },
+                {
+                    "codigo": "IND363",
+                    "nombre": "Gestión de la Calidad",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND282"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND364",
+                    "nombre": "Ingeniería del Producto",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND366",
+                    "nombre": "Negocios Electrónicos",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND283"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND367",
+                    "nombre": "Creatividad e Innovación",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND369",
+                    "nombre": "Gestión del Conocimiento",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND370",
+                    "nombre": "Finanzas y Negocios Internacionales",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND284"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND371",
+                    "nombre": "Mercado de Capitales",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND284"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND372",
+                    "nombre": "Temas de Finanzas",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND373",
+                    "nombre": "Desarrollo Emprendedor",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND374",
+                    "nombre": "Temas de Investigación de Operaciones",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND375",
+                    "nombre": "Temas de Gestión",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND376",
+                    "nombre": "Temas de Operaciones",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND377",
+                    "nombre": "Temas de Tecnología Industrial",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND378",
+                    "nombre": "Ergonomía Industrial",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND213", "IND214"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND379",
+                    "nombre": "Manufactura Esbelta",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND380",
+                    "nombre": "Innovación de Productos y Procesos",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND382",
+                    "nombre": "Derivados Financieros",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND284"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "IND383",
+                    "nombre": "Teoría de Portafolios y Análisis de Inversiones",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND284"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "INF229",
+                    "nombre": "Tecnologías de Información",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": [],
+                    "simultaneo": ["IND292"]
+                },
+                {
+                    "codigo": "ING301",
+                    "nombre": "Manufactura Integrada por Computadora",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "0",
+                    "requisitos": ["IND221"],
+                    "simultaneo": []
+                },
+                {
+                    "codigo": "ING320",
+                    "nombre": "Análisis Ambiental del Ciclo de Vida de los Productos",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "descripcion": "",
+                    "creditosReq": "170",
+                    "requisitos": [],
+                    "simultaneo": []
+                }
+            ]
+        }
+    ]
+}

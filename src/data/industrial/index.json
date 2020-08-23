@@ -9,7 +9,6 @@
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1ING02", "1MAT06", "1MAT07"],
                     "descripcion": "Es un curso teórico-práctico que aporta al logro de la competencia general aprender a aprender porque desarrolla la capacidad de aplicar conocimientos de matemáticas para la resolución de problemas. En este curso, se abarca los siguientes tres temas: geometría analítica, con las definiciones y propiedades importantes de la recta, circunferencia, parábola, elipse e hipérbola, y la rotación de ejes; álgebra matricial, que comprende las definiciones y operaciones de vectores y matrices aplicados en la resolución de sistemas lineales homogéneos y no homogéneos, y que, además, incluye el cálculo de vectores y valores propios de una matriz; números complejos y sus operaciones básicas. En este curso, se propone la aplicación de todos estos temas en la resolución de problemas intramatemáticos y extramatemáticos.",
                     "requisitos": [],
                     "simultaneo": [],
@@ -22,7 +21,6 @@
                     "creditos": "3.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1LIN16"],
                     "descripcion": "El curso es de naturaleza teórico-práctica y desarrolla la competencia comunicativa de los estudiantes. Se proponen actividades que estimulan la comprensión y producción de discursos orales y escritos propios de un estudiante que inicia sus estudios universitarios. Un aspecto importante del curso es el manejo de la variedad formal y el dominio de las reglas ortográficas y gramaticales actuales del español. A través de una metodología activa y colaborativa, los estudiantes aprenden a hacer búsquedas bibliográficas adecuadas y elaboran textos —orales y escritos— bien estructurados, claros, fundamentados, coherentes y cohesionados. Durante el curso, los alumnos analizan y escriben textos académicos breves, informes técnicos o científicos, documentos administrativos, resúmenes, reseñas, entre otros. Asimismo, realizan presentaciones orales con el apoyo de herramientas tecnológicas adecuadas.",
                     "requisitos": [],
                     "simultaneo": [],
@@ -35,7 +33,6 @@
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1MAT06"],
                     "descripcion": "Es un curso teórico-práctico que aporta al logro de la competencia general aprender a aprender porque desarrolla la capacidad de aplicar conocimientos de matemáticas para la resolución de problemas. En este curso, se utiliza los principios básicos de la lógica matemática para analizar, demostrar conjeturas y realizar demostraciones indirectas o directas. Asimismo, se aplica el principio de inducción matemática como un método de demostración directa y se resuelve inecuaciones usando propiedades de desigualdades en los números reales. Además, se aborda los conceptos y propiedades fundamentales de las funciones reales de variable real, tales como las funciones lineales, polinómicas, racionales, valor absoluto, exponenciales, logarítmicas, trigonométricas y trigonométricas inversas. También, se profundiza sobre los conocimientos de estas funciones aplicando operaciones con funciones, la composición de funciones, función inyectiva y función inversa en la resolución de problemas intramatemáticos y extramatemáticos.",
                     "requisitos": [],
                     "simultaneo": [],
@@ -48,7 +45,6 @@
                     "creditos": "3.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1FIS02"],
                     "descripcion": "Se aborda de manera teórico-práctica la mecánica de la partícula, profundizando en los temas de cinemática y dinámica; para este fin, se realizan operaciones con magnitudes escalares y vectoriales. En cinemática, se estudian temas de movimiento rectilíneo, casos de velocidad o aceleración constantes, cuerpos en caída libre y su representación gráfica en el tiempo, así como el movimiento de proyectiles. En dinámica, se desarrollan las tres leyes de Newton, los conceptos de masa y peso, y la fuerza de rozamiento. Finalmente, se generan espacios de aprendizaje para la aplicación de los conceptos básicos de Trabajo y Energía.",
                     "requisitos": [],
                     "simultaneo": [],
@@ -61,7 +57,6 @@
                     "creditos": "3.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "En este curso teórico-práctico, se desarrollan los principios básicos de la materia y de la estructura atómica moderna, que son la base para tratar el enlace químico (iónico, covalente y metálico). Además, se estudian los estados de la materia, que incluyen las leyes de los gases, las propiedades de los líquidos y sólidos, y los cambios de fases. Se abordan los temas de soluciones (tipos y cálculo de concentraciones) y la estequiometría de las reacciones químicas. Se proporcionan los conceptos básicos de estequiometría y termoquímica. Los temas se desarrollan brindando ejemplos de situaciones en las cuales son aplicados, con énfasis en aquellos de interés para la ciencia y la tecnología.",
                     "requisitos": [],
                     "simultaneo": [],
@@ -74,7 +69,6 @@
                     "creditos": "0.75",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "Este es un curso práctico en el que los temas de Química 1 sirven para desarrollar la capacidad de observación, análisis y manejo de datos, y relacionar los conceptos estudiados, con sus observaciones experimentales, para poder llegar a conclusiones y formular una explicación al experimento realizado, expresando observaciones y resultados en un reporte escrito.",
                     "requisitos": [],
                     "simultaneo": [
@@ -94,7 +88,6 @@
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1MAT07"],
                     "descripcion": "Es un curso teórico-práctico que aporta al logro de la competencia general aprender a aprender, puesto que desarrolla la capacidad de aplicar conocimientos de matemáticas para la resolución de problemas. El curso se centra en el estudio del cálculo diferencial de funciones reales de variable real y sus aplicaciones a las ciencias. En este curso, se desarrolla los conceptos y propiedades fundamentales de límites, continuidad, derivada, integral indefinida y ecuaciones diferenciales ordinarias de primer orden en la solución de diversos ejercicios y problemas intramatemáticos y extramatemáticos.",
                     "requisitos": [
                         "1MAT05", "1MAT04" 
@@ -109,7 +102,6 @@
                     "creditos": "3.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "El curso está orientado al estudio de la filosofía y su vinculación con la ciencia. Se examinan aspectos centrales sobre el origen, naturaleza y especificidad tanto del saber filosófico como del saber científico, atendiendo al contraste y vinculaciones entre ambos. Adicionalmente, se ponen en consideración las principales concepciones vinculadas con el debate filosófico actual sobre la ciencia. Asimismo, se procede al estudio y discusión de asuntos diversos vinculados con el impacto de la ciencia y la tecnología en la sociedad; o con los problemas morales, sociales y otros que estas suscitan; así como con cuestiones relativas al valor y alcance del conocimiento científico mismo.",
                     "requisitos": [],
                     "simultaneo": [],
@@ -122,7 +114,6 @@
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "En el curso, se enseña el uso de los instrumentos de dibujo. Se explican los símbolos utilizados en el trazado de líneas y la forma de rotular. Se desarrolla el tema de escalas, construcciones geométricas en el plano, vistas de un sólido y temas fundamentales de la geometría descriptiva. Asimismo, se tratan los temas de intersecciones y desarrollos. El estudiante participa dinámicamente en equipos de trabajo interdisciplinarios de acuerdo con los distintos roles que el objetivo común requiere. El estudiante muestra capacidad para la resolución de problemas, representa gráficamente objetos tridimensionales en dos dimensiones y visualiza tridimensionalmente las vistas de un sólido. Ahora bien, dentro de la formación humana, se puntualiza la identificación institucional, el trabajo en equipo, puntualidad, respeto y confianza.",
                     "requisitos": [
                         "1MAT04"
@@ -137,7 +128,6 @@
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1FIS04", "1INF01"],
                     "descripcion": "Se estudia de manera teórico-práctica la mecánica de la partícula y de los sistemas de partículas desarrollando la capacidad del alumno para aplicar sus conocimientos de matemáticas en la resolución de problemas de ingeniería utilizando un pensamiento crítico y la actitud para enfrentar problemas complejos. La mecánica de la partícula comprende tanto su estudio cinemático como dinámico. Se enfatiza en estas capacidades que fortalecen las competencias de aprender a aprender; luego, se procede a estudiar los métodos basados en los conceptos de trabajo y energía como una alternativa a las leyes de Newton para la descripción y estudio del movimiento. La mecánica de los sistemas de partículas comprende el uso de los principios de conservación de momento lineal, de energía y de momento angular para el estudio de la interacción de dos o más partículas, considerando inclusive el caso en que las partículas no cambian su posición relativa entre ellas (sólido rígido).",
                     "requisitos": [
                         "1FIS01"
@@ -154,7 +144,6 @@
                     "creditos": "0.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1FIS04"],
                     "descripcion": "Mediante las sesiones de laboratorio, el curso permite a los estudiantes comprobar los conocimientos teóricos a través de experimentos previamente diseñados con el propósito de desarrollar habilidades y destreza en el uso de instrumental de laboratorio, adquirir datos y procesarlos mediante software, comunicar resultados trabajando en equipo. Desarrolla actitudes y habilidades para el logro de las siguientes competencias: aprender a aprender, capacitando al estudiante para la resolución de problemas y realizar operaciones básicas del trabajo experimental; comunicación, al presentar el estudiante informes técnicos claros y precisos utilizando correctamente el idioma; desempeño personal y académico, cuando el estudiante muestra un comportamiento basado en valores y ética profesional, aplica sus habilidades de pensamiento crítico y participa dinámicamente en equipos de trabajo. Abarca los siguientes contenidos: mediciones y teoría de incertidumbres, mecánica de la partícula que comprende cinemática, dinámica, trabajo y energía, mecánica de sistema de partículas que comprende impulso y cantidad de movimiento, y mecánica del cuerpo rígido.",
                     "requisitos": [],
                     "simultaneo": ["1FIS02"],
@@ -167,7 +156,6 @@
                     "creditos": "2.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "----------",
                     "requisitos": [],
                     "simultaneo": [],
@@ -180,7 +168,6 @@
                     "creditos": "3.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "El curso es de naturaleza teórico-práctica e inicia al estudiante en la competencia de investigación académica haciendo énfasis en el desarrollo del pensamiento crítico. Esto supone el planteamiento de una pregunta de investigación y la propuesta de una hipótesis de trabajo para la redacción de un ensayo propio a partir de una búsqueda bibliográfica con criterios éticos y académicos. El estudiante redacta textos con un propósito comunicativo claro, con organización apropiada de la información proveniente de fuentes académicas y científicas, y aplicando las normas ortográficas y gramaticales actuales. Asimismo, se realizan actividades con el fin de que el estudiante sea capaz de sustentar y defender sus ideas en forma oral y escrita, teniendo en consideración el contexto comunicativo, y los aspectos sociales y culturales de la realidad.",
                     "requisitos": [
                         "1LIN15"
@@ -200,7 +187,6 @@
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["EST218"],
                     "descripcion": "Es un curso teórico-práctico que aporta al logro de la competencia general aprender a aprender, ya que desarrolla la capacidad de aplicar conocimientos de matemáticas para la resolución de problemas. El curso se centra en el estudio del cálculo integral de funciones reales de una variable y sus aplicaciones a las ciencias e ingeniería. En el curso, se aplica los conceptos de integral definida de una función y los métodos básicos de integración para la obtención de la integral que sirven para el cálculo de áreas de regiones planas, volúmenes de sólidos de revolución, centros de masa de láminas delgadas y homogéneas, longitudes de curvas en coordenadas cartesianas y polares, cálculo aproximado de integrales usando polinomios de Taylor, y resolución de ecuaciones diferenciales ordinarias lineales con coeficientes constantes con aplicaciones a la física. Además, se generaliza el concepto de la integral al cálculo de integrales impropias y el estudio de su convergencia.",
                     "requisitos": [
                         "1MAT04", "1MAT06"
@@ -215,7 +201,6 @@
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1MAT09"],
                     "descripcion": "Es un curso teórico-práctico que aporta al logro de la competencia general aprender a aprender al desarrollar la capacidad de aplicar conocimientos de matemáticas para la resolución de problemas. En este curso, se desarrolla los conceptos y propiedades fundamentales del cálculo diferencial e integral en diversas variables (límites, continuidad y derivadas de funciones vectoriales de variable real, funciones reales y vectoriales de variable vectorial, integrales dobles y triples) para comprender, representar, interpretar y explicar algunos fenómenos físicos por medio de relaciones entre las diferentes variables reales que los caracterizan.",
                     "requisitos": [],
                     "simultaneo": [
@@ -225,18 +210,15 @@
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF134",
-                    "nombre": "Estructuras discretas",
+                    "codigo": "IND148",
+                    "nombre": "Estudio del trabajo",
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["IEE229"],
-                    "descripcion": "Se describen elementos de las matemáticas discretas asociados con la lógica de las computadoras, como los sistemas de numeración, la lógica binaria y los grafos dirigidos. Además, se explican estructuras discretas de la teoría informática, como las álgebras de Boole, las máquinas de estado finito y las gramáticas de los lenguajes formales.",
+                    "descripcion": "Se estudian las principales herramientas para medir el trabajo y mejorar los métodos en un proceso productivo, ya sea de bienes o de servicios. Se pone énfasis en el conocimiento del proceso productivo con miras a elevar la productividad de las empresas, aumentando su eficiencia y su eficacia.",
                     "requisitos": [],
-                    "simultaneo": [
-                        "1MAT07"
-                    ],
-                    "creditosReq": "0",
+                    "simultaneo": [],
+                    "creditosReq": "35",
                     "electivo": "0"
                 },
                 {
@@ -245,7 +227,6 @@
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1FIS06"],
                     "descripcion": "El curso tiene por finalidad que el alumno desarrolle la capacidad de usar los conceptos teóricos y aplicar estrategias adecuadas para la resolución de problemas de ingeniería, además de desarrollar su pensamiento crítico para analizar los resultados obtenidos, y que los interprete en contexto de aplicación a problemas reales. Para dar la solución debe utilizar el vocabulario propio. El alumno debe consultar bibliografía en inglés y ser capaz de emitir juicios fundamentados pertinentes al tema. Se estudia la deformación de los cuerpos sólidos por efecto de fuerzas externas, el movimiento oscilatorio y las ondas mecánicas como una forma de transmisión de energía. Asimismo, se tratan algunos temas de la mecánica de fluidos, como hidrostática e hidrodinámica, así como los referidos a calor y termodinámica.",
                     "requisitos": [
                         "1FIS02", "1FIS03"
@@ -262,7 +243,6 @@
                     "creditos": "0.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1FIS06"],
                     "descripcion": "El curso se desarrolla en forma práctica y está enfocado en lograr que el alumno relacione adecuadamente los conocimientos teóricos del curso de Física 2 con experimentos diseñados con este propósito, utilizando instrumental de laboratorio y un software que le facilite el análisis de sus datos. El alumno desarrolla la capacidad de observación, análisis y trabajo en equipo a través las sesiones de prácticas de laboratorio. Asimismo, debe comunicar adecuadamente sus resultados y conclusiones al elaborar un reporte al final de cada sesión. Abarca los siguientes contenidos: elasticidad, oscilaciones, fenómenos ondulatorios, fluidos y termodinámica.",
                     "requisitos": [],
                     "simultaneo": [
@@ -272,19 +252,16 @@
                     "electivo": "0"
                 },
                 {
-                    "codigo": "1INF01",
-                    "nombre": "Fundamentos de programación",
+                    "codigo": "xxxxh2",
+                    "nombre": "Electivo Humanidades 2",
                     "creditos": "3.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["INF144"],
-                    "descripcion": "El curso es de naturaleza teórico-práctica y tiene como propósito desarrollar las capacidades para resolver diversos problemas de las ciencias e ingeniería planteando alternativas de solución que utilicen como herramienta la programación imperativa. Se desarrollan las nociones básicas de lógica proposicional con énfasis en la negación, la conjunción y la disyunción. Asimismo, se estudian los conceptos necesarios para el diseño de algoritmos enfatizando la representación de estructuras algorítmicas selectivas e iterativas por medio del diagrama de flujo y el pseudocódigo. Finalmente, se implementarán los algoritmos usando un lenguaje de programación imperativo.",
-                    "requisitos": [
-                        "1FIS02"
-                    ],
+                    "descripcion": "----------",
+                    "requisitos": [],
                     "simultaneo": [],
                     "creditosReq": "0",
-                    "electivo": "0"
+                    "electivo": "1"
                 }
             ]
         },
@@ -297,7 +274,6 @@
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "Es un curso teórico-práctico que aporta al logro de la competencia general aprender a aprender porque desarrolla la capacidad de aplicar conocimientos de matemáticas para la resolución de problemas. En este curso, se desarrolla los conceptos y propiedades fundamentales de las integrales de línea y de superficie, aplicadas al cálculo del trabajo que realiza una fuerza para desplazar una partícula a lo largo de una curva y al cálculo del flujo de un campo vectorial que atraviesa una superficie; la serie de potencias y la serie de Fourier, aplicadas a la solución de ecuaciones diferenciales ordinarias lineales de segundo orden con coeficientes variables y a la solución de ecuaciones diferenciales parciales lineales, respectivamente; y la transformada de Laplace, aplicada a la solución de algunas ecuaciones diferenciales ordinarias.",
                     "requisitos": [
                         "1MAT08"
@@ -312,7 +288,6 @@
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["IEE229"],
                     "descripcion": "El propósito del curso es que el alumno desarrolle la capacidad de usar los conceptos teóricos y aplicar estrategias adecuadas para la resolución de problemas de ingeniería, además de desarrollar su pensamiento crítico para analizar los resultados obtenidos, y que los interprete en contexto de aplicación a problemas reales. Para dar la solución debe utilizar el vocabulario propio. El alumno debe consultar bibliografía en inglés y ser capaz de emitir juicios fundamentados pertinentes al tema. El curso comprende los temas de carga eléctrica, el campo eléctrico, el potencial eléctrico, condensadores, los circuitos de corriente continua, el campo magnético, la fuerza magnética sobre una carga y un conductor con corriente, y las leyes de Ampere y de Biot-Savart. Asimismo, se estudian la ley de Faraday y la energía magnética, así como los circuitos de corriente alterna, seguidos del estudio de las ondas electromagnéticas (OEM) en el vacío.",
                     "requisitos": [
                         "1FIS04", "1FIS05"
@@ -329,7 +304,6 @@
                     "creditos": "0.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["IEE229"],
                     "descripcion": "Su naturaleza es esencialmente experimental y de sólida formación científica. Su propósito es desarrollar habilidades en el uso de instrumental de laboratorio en los temas de electricidad y magnetismo, mediante técnicas, métodos y procedimientos para el análisis de datos experimentales usando un software para así verificar los fenómenos físicos que se presentan en la naturaleza y en el ámbito laboral. Desarrolla actitudes y habilidades para el logro de las siguientes competencias: comprensión de fenómenos físicos, análisis y síntesis, aplicación de conocimientos teóricos en la práctica, comunicación oral y escrita, trabajo en equipo, habilidades de investigación, compromiso ético, motivación al logro de objetivos. Abarca experiencias de laboratorio de electricidad y magnetismo.",
                     "requisitos": [],
                     "simultaneo": [
@@ -339,32 +313,30 @@
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF144",
-                    "nombre": "Técnicas de programación",
-                    "creditos": "5.00",
+                    "codigo": "1INF01",
+                    "nombre": "Fundamentos de programación",
+                    "creditos": "3.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1INF06"],
-                    "descripcion": "Se describen las herramientas necesarias para la elaboración de programas informáticos empleando un lenguaje de programación. Se presentan los temas de la programación estructurada, de la programación modular y del diseño descendente. Se tratan tópicos relacionados con el almacenamiento de datos, el ciclo de vida de un proceso de desarrollo de software, la estructura general de un programa y las diferentes metodologías existentes para la elaboración de programas.",
+                    "descripcion": "El curso es de naturaleza teórico-práctica y tiene como propósito desarrollar las capacidades para resolver diversos problemas de las ciencias e ingeniería planteando alternativas de solución que utilicen como herramienta la programación imperativa. Se desarrollan las nociones básicas de lógica proposicional con énfasis en la negación, la conjunción y la disyunción. Asimismo, se estudian los conceptos necesarios para el diseño de algoritmos enfatizando la representación de estructuras algorítmicas selectivas e iterativas por medio del diagrama de flujo y el pseudocódigo. Finalmente, se implementarán los algoritmos usando un lenguaje de programación imperativo.",
                     "requisitos": [
-                        "1INF01"
+                        "1FIS02"
                     ],
                     "simultaneo": [],
                     "creditosReq": "0",
                     "electivo": "0"
                 },
                 {
-                    "codigo": "xxxxh2",
-                    "nombre": "Electivo Humanidades 2",
-                    "creditos": "3.00",
+                    "codigo": "1IND02",
+                    "nombre": "Laboratorio de estudio del trabajo",
+                    "creditos": "1.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
-                    "descripcion": "----------",
-                    "requisitos": [],
+                    "descripcion": "Es un curso práctico que desarrolla temas que comprenden la descripción y análisis de procesos, la mejora de métodos. La comprensión de factores humanos y la medición del trabajo.",
+                    "requisitos": ["IND148"],
                     "simultaneo": [],
                     "creditosReq": "0",
-                    "electivo": "1"
+                    "electivo": "0"
                 },
                 {
                     "codigo": "xxxxxr",
@@ -372,12 +344,23 @@
                     "creditos": "3.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "----------",
                     "requisitos": [],
                     "simultaneo": [],
                     "creditosReq": "0",
                     "electivo": "1"
+                },
+                {
+                    "codigo": "ING134",
+                    "nombre": "Mecánica para ingenieros",
+                    "creditos": "4.50",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Se proporcionan los conceptos y métodos fundamentales de la mecánica clásica, relacionándolos con aplicaciones sencillas en ingeniería. Se tratan los temas de estática y dinámica aplicándolos al análisis de la partícula, para luego estudiar el sólido rígido, aislado o unido a otros sólidos formando estructuras y mecanismos.",
+                    "requisitos": ["1FIS02", "1MAT07"],
+                    "simultaneo": [],
+                    "creditosReq": "0",
+                    "electivo": "0"
                 }
             ]
         },
@@ -385,30 +368,12 @@
             "id": "5",
             "cursos": [
                 {
-                    "codigo": "1INF06",
-                    "nombre": "Estructura de datos y programación metódica",
-                    "creditos": "4.50",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": ["INF281"],
-                    "descripcion": "Introducción y motivación. Fundamentos del análisis de la eficiencia de algoritmos: orden de crecimiento, notaciones asintóticas. Especificación formal e implementación de los tipos de datos más relevantes: colas, pilas, listas, árboles binarios, árboles binarios de búsqueda, tablas de dispersión y grafos. Construcción de programas a partir de su especificación con precondición y poscondición: especificación de asertos mediante predicados, el predicado más débil, definición de instrucciones mediante el predicado más débil. Invariante de bucle y función de cota. Verificación de programas. Derivación formal de programas.",
-                    "requisitos": [
-                        "INF144"
-                    ],
-                    "simultaneo": [
-                        "INF263"
-                    ],
-                    "creditosReq": "0",
-                    "electivo": "0"
-                },
-                {
-                    "codigo": "EST218",
-                    "nombre": "Estadistica para Ingeniería",
+                    "codigo": "1EST12",
+                    "nombre": "Estadística Aplicada 1",
                     "creditos": "3.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["1EST14"],
-                    "descripcion": "Estadística descriptiva: Introducción, organización y tratamiento de los datos, resúmenes numéricos de los datos. Probabilidad: Introducción, conceptos básicos de probabilidad, probabilidad condicional, teorema de Bayes, variables aleatorias discretas y continuas, teorema del límite central. Estadística inferencial: Estimación, estimación puntual y por intervalos, prueba de hipótesis, prueba de hipótesis para le media y proporciones.",
+                    "descripcion": "El curso ofrece temas de estadística descriptiva, que comprende el desarrollo de técnicas estadísticas para organizar, presentar y resumir datos. Prepara al estudiante en el proceso de convertir datos numéricos aislados en información, útil para la toma de decisiones. Introduce conceptos de probabilidades,  que comprende el estudio de principios básicos de probabilidades, variables aleatorias y los modelos probabilísticos más usuales. Ambas partes se desarrollan apoyándose en el uso de software estadístico.",
                     "requisitos": [
                         "1MAT07"
                     ],
@@ -417,17 +382,28 @@
                     "electivo": "0"
                 },
                 {
-                    "codigo": "IEE229",
-                    "nombre": "Electrónica Digital",
-                    "creditos": "3.75",
+                    "codigo": "ECO204",
+                    "nombre": "Economía General",
+                    "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["IEE240"],
-                    "descripcion": "Introducción al microprocesador. Lenguaje ensamblador. Álgebra de Boole. Sistemas de numeración y códigos. Circuitos combinacionales. Circuitos secuenciales. Memorias: dispositivos de memoria, expansión de memorias",
-                    "requisitos": [
-                        "INF134", "1FIS06", "1FIS07"
-                    ],
+                    "descripcion": "Herramientas básicas del mercado competitivo. Teoría del consumidor. Teoría de la empresa. Equilibrio parcial en competencia perfecta.Competencia imperfecta. Macroeconomía.Determinación del producto y demanda efectiva. El modelo IS-LM. La oferta y la demanda agregada. Introducción a la economía abierta.",
+                    "requisitos": [],
                     "simultaneo": [],
+                    "creditosReq": "70",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "ING217",
+                    "nombre": "Resistencia de Materiales 1A",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Introducción al concepto de esfuerzos. Esfuerzo y de formación,carga axial.Torsión.Flexión.Carga transversal en secciones simétricas. Cargas combinadas. Transformación de esfuerzos y deformaciones.",
+                    "requisitos": [
+                        "ING134", "1MAT08"
+                    ],
+                    "simultaneo": ["MEC266"],
                     "creditosReq": "0",
                     "electivo": "0"
                 },
@@ -437,7 +413,6 @@
                     "creditos": "3.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["INF291"],
                     "descripcion": "Fundamentos de la Administración. Evolución del Enfoque Administrativo. Enfoque de Sistemas. Planificación. Organización. Dirección. Control.",
                     "requisitos": [],
                     "simultaneo": [],
@@ -445,30 +420,38 @@
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF246",
-                    "nombre": "Bases de datos",
-                    "creditos": "3.75",
+                    "codigo": "MEC264",
+                    "nombre": "Termodinámica General",
+                    "creditos": "3.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["INF274", "INF248"],
-                    "descripcion": "Metodología y técnicas de diseño de bases de datos organizacionales. Sistemas Administradores de Bases de Datos(SABD).Herramientas de uso de SABD sen entornos transaccionales multiusuario. Integridad y seguridad de datos. Modelos de datos, modelo relacional,normalización,metodología de diseño Descendente(Top-Down),lenguajes para tratamiento de datos,cliente/servidor,concurrencia y proceso de transacciones.",
-                    "requisitos": [],
+                    "descripcion": "Definiciones fundamentales. Sustancia pura y gases.Trabajo y calor. Primera ley de la termodinámica.Segunda ley de la termodinámica.Entropía.Ciclorankine(planta con turbina a vapor).Ciclo joule-brayton(planta con turbina a gas).Ciclos teóricos de motores de combustión interna.Ciclo de refrigeración.Mezcla Gas-Vapor.",
+                    "requisitos": ["1FIS04", "1MAT08", "1QUI01"],
                     "simultaneo": [],
-                    "creditosReq": "70",
+                    "creditosReq": "0",
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF263",
-                    "nombre": "Algoritmia",
-                    "creditos": "3.75",
+                    "codigo": "MEC265",
+                    "nombre": "Taller de Procesos de Manufactura",
+                    "creditos": "2.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["INF281", "INF265"],
-                    "descripcion": "Introducción. Búsqueda secuencial y binaria. Ordenamiento por intercambio, ordenamiento por selección, intercalación, inserción, intercambio, burbuja, shell. Algoritmos Recursivos. Estrategias Algorítmicas. Aplicaciones de estructuras de datos: pilas, colas, árboles binarios de búsqueda y grafos. Criptografía.",
+                    "descripcion": "Trabajo de banco.El torno horizontal.La operación de cepillado.La fresadora.La forja en caliente.Trabajo de chapa metálica. Soldadura. Fundición de metales.",
                     "requisitos": [],
-                    "simultaneo": [
-                        "1INF06"
-                    ],
+                    "simultaneo": ["ING217"],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "MEC266",
+                    "nombre": "Dibujo Mecánico",
+                    "creditos": "2.75",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Curso teórico-práctico que contribuye en la comunicación de ideas mediante representaciones gráficas, utilizando reglas universales de dibujo. El alumno aprenderá la forma de representar gráficamente piezas y partes de máquinas, con el fin de transmitir la información necesaria para definir  la pieza completamente, así como su interrelación con otros elementos. En el curso se desarrollan los conceptos, técnicas, normas y recomendaciones relativas a planos de despiece y ensamble, planos de tuberías, esquemas neumáticos e hidráulicos y esquemas de circuitos eléctricos.",
+                    "requisitos": ["1ING02"],
+                    "simultaneo": [],
                     "creditosReq": "0",
                     "electivo": "0"
                 }
@@ -478,15 +461,40 @@
             "id": "6",
             "cursos": [
                 {
-                    "codigo": "IEE240",
-                    "nombre": "Organización y Arquitectura de Computadoras",
-                    "creditos": "5.00",
+                    "codigo": "1EST13",
+                    "nombre": "Estadística Aplicada 2",
+                    "creditos": "3.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["INF239", "TEL201"],
-                    "descripcion": "Introducción. Unidad central de proceso-CPU. Memorias: tipos, jerarquía, memorias semi conductoras, caché, principal. Entrada-salida. Dispositivos de almacenamiento masivo. Controladores y periféricos. Interfaz con las capas altas de software. Análisis de rendimiento.",
+                    "descripcion": "Introducción a la estimación de parámetros: Estimación puntual y por intervalos de confianza. Tamaño de muestra. Pruebas de hipótesis: Principios generales. Pruebas de hipótesis relativas a la media, proporción y varianza. Introducción al análisis de datos categóricos: Pruebas de proporciones, de bondad de ajuste, homogeneidad e independencia. Introducción a los diseños experimentales: Introducción. Modelos de uno y dos factores. Estimación de parámetros. Aplicaciones. Análisis de regresión lineal simple y múltiple: Introducción. Modelo. Estimación de parámetros. Aplicaciones.",
                     "requisitos": [
-                        "IEE229"
+                        "1EST12"
+                    ],
+                    "simultaneo": [],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IEE272",
+                    "nombre": "Electricidad Industrial",
+                    "creditos": "2.50",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Circuitos de corriente continua. Circuitos de corriente alterna. Circuitos trifásicos de corriente alterna.El transformador. El sistema eléctrico industrial.",
+                    "requisitos": ["1FIS06"],
+                    "simultaneo": [],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND213",
+                    "nombre": "Ingeniería de Plantas",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Trabajo en equipo. Lineamientos para un proyecto de distribución de planta. Tipos de disposición de elementos productivos. Capacidad y balance de línea. Factores de ajuste de rendimiento de proceso y márgenes de seguridad. Factores que influyen en una distribución de planta. Manipulación de materiales. Proyecto de distribución de planta. Localización. Planeamiento sistemático de distribución (PSD). Evaluación del proyecto de distribución de planta. Implantación de la distribución de planta seleccionada. Temas complementarios. Sustentación del proyecto de distribución de planta.",
+                    "requisitos": [
+                        "1IND02"
                     ],
                     "simultaneo": [],
                     "creditosReq": "0",
@@ -498,7 +506,6 @@
                     "creditos": "3.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["INF295", "IND273", "IND275", "INF234"],
                     "descripcion": "El valor del dinero en el tiempo.Factores de equivalencia.Tasa de interés nominal y tasa de interés efectiva.Operaciones de crédito.Inflación.Conceptos contables básicos.Costo ponderado de capital.Depreciación. Evaluación de proyectos. Análisis de sensibilidad de proyectos.",
                     "requisitos": [],
                     "simultaneo": [],
@@ -506,47 +513,56 @@
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF248",
-                    "nombre": "Sistemas de Información 1",
-                    "creditos": "5.00",
+                    "codigo": "MEC245",
+                    "nombre": "Laboratorio de Termodinámica General",
+                    "creditos": "1.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["INF250", "INF008"],
-                    "descripcion": "Conceptos básicos. Organización empresarial.Fase del ciclo de vida del software.Participantes en un proyecto de desarrollo de sistemas de información.Análisis estructurado.Introducción a la interacción persona-computador:diseño de interfaces gráficas,evaluación de usabilidad de interfacesgráficas.Diseño estructurado.Implantación de sistemas.Otros modelos de ciclos de vida.",
+                    "descripcion": "Instrumentación. Planta térmica. Refrigeración. Compresor alternativo. Psicrometría.",
                     "requisitos": [
-                        "INF246"
-                    ],
-                    "simultaneo": [
-                        "INF291"
-                    ],
-                    "creditosReq": "0",
-                    "electivo": "0"
-                },
-                {
-                    "codigo": "INF281",
-                    "nombre": "Lenguaje de programación 1",
-                    "creditos": "5.00",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": ["INF282", "INF250", "INF239"],
-                    "descripcion": "Tipos de lenguajes de programación. LenguajeC++.Técnicas de programación estructurada: control de flujo,funciones y alcance de variables,punteros y arreglos,estructuras.Programación orientada a objetos: herencia,polimorfismo,operadores sobre cargados,entrada y salida, excepciones.",
-                    "requisitos": [
-                        "1INF06", "INF263"
+                        "MEC264"
                     ],
                     "simultaneo": [],
                     "creditosReq": "0",
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF291",
-                    "nombre": "Métodos y Procedimientos",
-                    "creditos": "5.00",
+                    "codigo": "MEC267",
+                    "nombre": "Ingeniería de Materiales",
+                    "creditos": "4.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["IND273"],
-                    "descripcion": "La empresa y sus formas de organización. Tipos de organización. Métodos y procedimientos. Manuales, su estructura y contenido. Terminología y notaciones empleadas. Metodologías de conversión, puesta en marcha y control.",
+                    "descripcion": "Ensayo de materiales.Características de los materiales cristalinos.Difusión y solidificación de los metales.Diagrama de equilibrio. Aleaciones ferrosas.Tratamientos térmicos.Principales a leaciones no ferrosas.Materiales poliméricos. Materiales compuestos.",
                     "requisitos": [
-                        "IND251"
+                        "1FIS04", "1QUI01"
+                    ],
+                    "simultaneo": [],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "MEC270",
+                    "nombre": "Procesos de Manufactura",
+                    "creditos": "4.00",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "La ingeniería industrial y los procesos de manufactura. Consideraciones económicas en la manufactura. Atributos de los componentes manufacturados. Fundición de metales. Conformado de metales por deformación plástica. Mecanizado de metales. Soldadura y procesos de unión. Procesamiento de polímeros. Procesamiento de materiales en partículas.",
+                    "requisitos": [
+                        "MEC266", "MEC265"
+                    ],
+                    "simultaneo": ["MEC267"],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND204",
+                    "nombre": "Procesos de Manufactura",
+                    "creditos": "0.50",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Primera Práctica Supervisada Preprofesional con predominio en el Centro de Formación Profesional, permite al alumno aplicar sus conocimientos, habilidades y aptitudes mediante el desempeño en una situación real de trabajo",
+                    "requisitos": [
+                        "1IND02"
                     ],
                     "simultaneo": [],
                     "creditosReq": "0",
@@ -558,110 +574,42 @@
             "id": "7",
             "cursos": [
                 {
-                    "codigo": "INF239",
-                    "nombre": "Sistemas operativos",
-                    "creditos": "4.00",
+                    "codigo": "IND214",
+                    "nombre": "Control Integral de Calidad",
+                    "creditos": "3.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["INF238"],
-                    "descripcion": "Introducción.Sistemas de archivo.Conceptos de sistema operativo:modos de operación, manejo de recursos,shell,espacio de direcciones,tuberías,llamadas al sistema,estructura de un sistema operativo.Procesos e Hilos.Comunicación entre procesos.Planificación de procesos. Administración de memoria. Memoria virtual.",
+                    "descripcion": "Diseño de experimentos. Filosofía de la calidad. Mejoramiento de la calidad: herramientas. Control estadístico: Gráficos de control-variables. Gráficos de control-atributos. Capacidad del proceso. Verificación de sistemas de medición. Muestreo de aceptación por atributos. Muestreo por variables -MILSTD-414. Costos de calidad. Caso integrador.",
                     "requisitos": [
-                        "INF281", "IEE240"
+                        "1EST13", "IND213"
+                    ],
+                    "simultaneo": ["IND276"],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND270",
+                    "nombre": "Procesos Industriales",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Procesos Industriales y la actividad industrial. Balances de masa y energía. Combustión y combustibles. Energías renovables. La industria de los metales. La industria de los minerales no metálicos. La industria del petróleo y gas. La agroindustria en el Perú. La industria de la caña de azúcar. La industria pesquera.",
+                    "requisitos": [
+                        "MEC264"
                     ],
                     "simultaneo": [],
                     "creditosReq": "0",
                     "electivo": "0"
                 },
-                {
-                    "codigo": "INF250",
-                    "nombre": "Sistemas de Información 2",
-                    "creditos": "5.00",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": ["INF245"],
-                    "descripcion": "Conceptos generales. Ciclo de desarrollo de sistemas.Obtención de requisitos don UML.Análisis de un sistema de informaciónc con UML.Diseño de un sistema de información con UML: arquitectura de software,patrones arquitectónicos,diseño de tallado.Implementacióndeun sistema de información con UML.",
-                    "requisitos": [
-                        "INF248", "INF281"
-                    ],
-                    "simultaneo": [],
-                    "creditosReq": "0",
-                    "electivo": "0"
-                },
-                {
-                    "codigo": "INF265",
-                    "nombre": "Aplicaciones de Ciencias de la Computación",
-                    "creditos": "4.00",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": ["INF226"],
-                    "descripcion": "Teoría de compiladores: Introducción,análisis léxico,análisis sintáctico,Generación de código intermedio.Principios de Inteligencia Artificial: introducción, representación del conocimiento,heurísticas y metaheurísticas, introducción a los sistemas expertos,tópicos avanzados de Inteligencia Artificial.",
-                    "requisitos": [
-                        "INF263"
-                    ],
-                    "simultaneo": [],
-                    "creditosReq": "0",
-                    "electivo": "0"
-                },
-                {
-                    "codigo": "INF282",
-                    "nombre": "Lenguaje de programación 2",
-                    "creditos": "5.00",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": ["INF245"],
-                    "descripcion": "Programación bajo sistemas operativos de ambiente gráfico, orientados a objetos, con interfaces gráficas de usuario,concurrentes y distribuidos. Herramientas para programación en entornos gráficos.Librerías,recursos y mensajes,cajas de diálogo comunes,barras de herramientas,vistas y múltiples documentos, conexión con bases de datos,librerías estáticas y dinámicas,multiprocesos y multihilos,tecnologíasOLE.Programación en lenguaje Java usando recursosgráficos, applets y aplicaciones.",
-                    "requisitos": [
-                        "INF281"
-                    ],
-                    "simultaneo": [],
-                    "creditosReq": "0",
-                    "electivo": "0"
-                },
-                {
-                    "codigo": "TEL201",
-                    "nombre": "Teoría de Comunicaciones",
-                    "creditos": "4.00",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": ["INF238"],
-                    "descripcion": "Conceptos básicos y aplicaciones de la teoría de la información,modulación analógica y digital,medios y modos de transmisión, transmisión digital y en banda base,detección y corrección de errores.Introducción a los sistemas de comunicación digital, comunicación de datos.",
-                    "requisitos": [
-                        "IEE240"
-                    ],
-                    "simultaneo": [],
-                    "creditosReq": "0",
-                    "electivo": "0"
-                },
-                {
-                    "codigo": "INF008",
-                    "nombre": "Práctica Supervisada Pre- profesional",
-                    "creditos": "0.50",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": [],
-                    "descripcion": "Las prácticas supervisadas preprofesionales (PSP) complementan la formación académica del alumno brindándole bajo supervisión un espacio real para la aplicación de lo aprendido en la universidad. El curso consiste en que los alumnos realizan prácticas profesionales bajo supervisión de la empresa y la universidad. Al cumplirse la semana 11 del semestre, el alumno es evaluado tras haber cumplido un mínimo de 270 horas (30 horas semanales durante 9 semanas)",
-                    "requisitos": [
-                        "INF248"
-                    ],
-                    "simultaneo": [],
-                    "creditosReq": "0",
-                    "electivo": "0"
-                }
-            ]
-        },
-        {
-            "id": "8",
-            "cursos": [
                 {
                     "codigo": "IND273",
                     "nombre": "Investigación Operativa 1",
                     "creditos": "4.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "Introducción a la investigación de operaciones. Programación lineal. Solución gráfica de los problemas de programación lineal. Formulación de problemas de programación lineal. Programación lineal con varios objetivos. Programación lineal entera. Métodos primal-símplex y dual-símplex. Análisis de sensibilidad.",
                     "requisitos": [
-                        "IND231", "INF291"
+                        "IND231"
                     ],
                     "simultaneo": [],
                     "creditosReq": "0",
@@ -673,73 +621,159 @@
                     "creditos": "4.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "La contabilidad en la aministración de epresas. Los etados fnancieros. El etado de perdidas y ganancias. El proceso de registro. Análisis de estados financieros. Contabilidad de costos. Costos relevantes y el enfoque de contribución. Sistema de punto de equilibrio. Asignación de costos y sistema de costos basado en actividades. Sistema de acumulación de costos por orden. Sistema de acumulación de costos estándar. Sistema de acumulación de costos por proceso",
                     "requisitos": [
-                        "IND231"
+                        "IND231", "ECO204"
                     ],
                     "simultaneo": [],
                     "creditosReq": "0",
                     "electivo": "0"
                 },
                 {
-                    "codigo": "1EST14",
-                    "nombre": "Experimentación Numérica",
-                    "creditos": "2.00",
+                    "codigo": "IND276",
+                    "nombre": "Laboratorio de Control Integral de Calidad",
+                    "creditos": "1.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["INF226"],
-                    "descripcion": "En este curso se busca que los alumnos desarrollen la capacidad para diseñar, ejecutar y analizar experimentos cuantitativos en Informática. Se verán temas como: diseño experimental, selección de variables, formulación de hipótesis, selección de casos de estudios, pruebas paramétricas y no paramétricas, correlaciones, regresión lineal, ANOVA, alfa de Cronbach, análisis e interpretación y validez de la experimentación.",
-                    "requisitos": [
-                        "EST218"
-                    ],
-                    "simultaneo": [
-                        "INF245"
-                    ],
+                    "descripcion": "Diseño de experimentos e introducción al MINITAB. Herramientas de la calidad. Gráfico de control por variables. Gráfico de control por atributos. Muestreo por atributos.",
+                    "requisitos": [],
+                    "simultaneo": ["IND214"],
                     "creditosReq": "0",
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF238",
-                    "nombre": "Redes de computadoras",
-                    "creditos": "4.00",
+                    "codigo": "IND290",
+                    "nombre": "Seguridad Integral",
+                    "creditos": "3.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": ["INF274"],
-                    "descripcion": "Introducción.Medios de transmisión y cableado estructurado.Tecnologías de redes LAN. Dispositivos de interconexión de redes. Redes inalámbricas.ArquitecturaTCP/IP. Fundamentos de en rutamiento IP.Protocolos de en rutamiento dinámico.Suredes y super redes. Protocolos de capa de transporte.Traducción de direcciones de rede ICMP.Protocolos de capa de aplicación. Seguridad de la red. Tecnologías emergentes en redes de computadoras.",
-                    "requisitos": [
-                        "TEL201", "INF239"
-                    ],
-                    "simultaneo": [],
-                    "creditosReq": "0",
-                    "electivo": "0"
-                },
-                {
-                    "codigo": "INF245",
-                    "nombre": "Ingeniería de Software",
-                    "creditos": "4.00",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": ["INF273", "INF295", "INF226"],
-                    "descripcion": "Desarrollo histórico.Conceptos sobre productividad ei ingeniería de proyectos. Definición de requerimientos.Notaciones para especificación de componentes.Técnicas de programación.y para pruebas de programas.Previsión para operación y mantenimiento.Recomendaciones para documentación.Técnicas de evaluación..Se complementa con sesiones de laboratorio mediante la técnica didáctiva POL (Proyect Oriented Learning).",
-                    "requisitos": [
-                        "INF250", "INF282"
-                    ],
-                    "simultaneo": [],
-                    "creditosReq": "0",
-                    "electivo": "0"
-                },
-                {
-                    "codigo": "ING220",
-                    "nombre": "Ética Profesional",
-                    "creditos": "2.00",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": [],
-                    "descripcion": "Curso orientado al análisis y discusión de temas de ética que están vinculados al ejercicio profesional de la ciencia y de la ingeniería. Ética y deontología: definiciones, evolución moral del pensamiento ético, ética y moral, ética profesional. Los valores. El bien común y el principio de subsidiaridad. Responsabilidad Social y Ética",
+                    "descripcion": "Aspectos básicos.Organización preventiva en la empresa. Efectos en la eficiencia y rentabilidad. Efectos en la eficiencia y rentabilidad. Técnicas de seguridad.Prevención de incendio y explosión.Riesgos eléctricos.Seguridad en la planta. Higiene y salud industrial.Contaminantes químicos y biológicos. Agentes físicos ambientales. Medicina del trabajo.Ergonomía.Ergonomía:antropometría y biomecánica. Ergonomía:aplicaciones al diseño de puestos de trabajo.Ecología,contaminación y control ambiental.Manual de seguridad,salud y medio ambiente de trabajo.Evaluación de sistemas de gestión de seguridad y salud ocupacional.",
                     "requisitos": [],
                     "simultaneo": [],
-                    "creditosReq": "120",
+                    "creditosReq": "105",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND331",
+                    "nombre": "Psicología Industrial",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Comportamiento humano y sicología industrial. Actitudes y satisfacción laboral. Cultura organizacional. Procesos y programas de motivación. Técnicas de modificación de conducta. Comunicación en las organizaciones. Análisis transaccional aplicado a las comunicaciones. Liderazgo en las organizaciones. Liderazgo en las organizaciones. Comportamiento grupal. Participación y administración en equipo. Mentoría y preceptoría en la empresa. Conflicto y negociación. Diagnóstico y cambio organizacional.",
+                    "requisitos": ["IND251"],
+                    "simultaneo": [],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "cursos": [
+                {
+                    "codigo": "IND221",
+                    "nombre": "Automatización industrial",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Introducción a la automatización industrial. Sensores y actuadores. Controladores. Aplicaciones en la industria. Es que mas típicos de control. Automatización en servicios. Comunicaciones,redes y sistemas SCADA.Tecnología de Robótica.Manufactura Integrada por computadora. Sistemas de manufactura flexible y CNC.",
+                    "requisitos": [
+                        "IEE272", "MEC270"
+                    ],
+                    "simultaneo": ["IND270"],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND281",
+                    "nombre": "Investigación Operativa 2",
+                    "creditos": "4.00",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Cadenas de Markov.Teoría de colas.Teoría de redes.Planificación y control de proyectos (PERT/CPM). Programación dinámica.",
+                    "requisitos": [
+                        "IND273", "1EST13"
+                    ],
+                    "simultaneo": [],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND282",
+                    "nombre": "Planeamiento y Control de Operaciones",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Introducción al Planeamiento y Control de las Operaciones. Pronóstico. Planificación Maestra El Programa Maestro de Producción. Planeamiento de la Línea de Productos. Introducción al MRP. El Modelo del MRP. Inventarios. Programación y control de las operaciones.",
+                    "requisitos": [
+                        "IND214", "IND273"
+                    ],
+                    "simultaneo": [],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND283",
+                    "nombre": "Mercadotecnia industrial",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Conceptos de marketing. El ambiente de mercadotecnia. Mercados. Consumidores y comportamiento de compra del consumidor.Investigación de mercados y sistemas de información. Estrategias de mercadotecnia. El producto. Desarrollo de nuevos productos. La distribución. Precio. La comunicación. Publicidad y merchandising. Promociones y relaciones públicas. De venta personal a C.M.R. Mercados organizacionales y comportamiento de compra de la organización. Marketing de servicios.",
+                    "requisitos": [
+                        "IND251", "1EST13"
+                    ],
+                    "simultaneo": [],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND284",
+                    "nombre": "Finanzas Industriales",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "La gestión financiera en la empresa.Fuentes de financiamiento y operaciones bancarias.Diagnóstico Financiero: Ratios de análisis financiero.Punto de equilibrio apalancamiento operativo,financiero y total.Administración del capital de trabajo. Planificación financiera.",
+                    "requisitos": [
+                        "IND275"
+                    ],
+                    "simultaneo": [],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND333",
+                    "nombre": "Logística Industrial",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Introducción a la logística. Logística de entrada: Compras y catalogación de productos. Logística interna: Gestión de almacenes. Logística interna: Gestión de inventarios. Logística de salida: Distribución física. Logística de salida: Distribución física internacional. Operador logístico. Servicio al cliente e indicadores de funcionamiento. Costos logísticos. La información en el sistema logístico.",
+                    "requisitos": ["IND275"],
+                    "simultaneo": [],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND277",
+                    "nombre": "Laboratorio de Procesos Industriales",
+                    "creditos": "1.00",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "El laboratorio de Procesos Industriales complementa la teoría realizada en aula, con aplicaciones prácticas. Dentro de este laboratorio se han considerado prácticas experiementales que involucren a los principales equipos de operaciones unitarias (Destilación, secado, mezcla, evaporación, extracción, molienda, pulpeado y tamizado) para el procesamiento de alimentos, por el cual los alumnos de Ingeniería. Industrial podrán conocer el principio de su funcionamiento a si como los parámetros que se debn tener presente para obtener productos alimenticios de buena calidad.",
+                    "requisitos": ["IND270"],
+                    "simultaneo": [],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND206",
+                    "nombre": "Segunda Práctica Supervisada Pre-Profesional",
+                    "creditos": "0.50",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Segunda Práctica Supervisada Preprofesional con predominio en el Centro de Formación Profesional, permite al alumno aplicar sus conocimientos, habilidades y aptitudes mediante el desempeño en una situación real de trabajo.",
+                    "requisitos": ["IND204"],
+                    "simultaneo": ["IND282"],
+                    "creditosReq": "0",
                     "electivo": "0"
                 }
             ]
@@ -748,107 +782,108 @@
             "id": "9",
             "cursos": [
                 {
-                    "codigo": "INF226",
-                    "nombre": "Desarrollo de Programas 1",
-                    "creditos": "3.00",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": ["INF227"],
-                    "descripcion": "Definición de requerimientos. Especificación de componentes.Desarrollo de un prototipo.Desarrollo de una versión preliminar o modesta. Documentación.",
-                    "requisitos": [
-                        "INF245", "INF265", "1EST14"
-                    ],
-                    "simultaneo": [],
-                    "creditosReq": "0",
-                    "electivo": "0"
-                },
-                {
-                    "codigo": "INF234",
-                    "nombre": "Modelos y Simulación Empresarial",
+                    "codigo": "IND232",
+                    "nombre": "Elaboración y Evaluación de Proyectos",
                     "creditos": "3.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
-                    "descripcion": "Conceptos sobre modelos. Conceptos sobre simulación. Conceptos sobre gestión empresarial. Características y objetivos. Consideraciones de diseño. Técnicas y herramientas de desarrollo. Aplicaciones prácticas.",
+                    "descripcion": "Aspectos generales. Estudio de mercado. Aspectos técnicos del proyecto. Las inversiones del proyecto. Financiamiento.Presupuesto de ingresos y egresos. Estados financieros proyectados. Evaluación del proyecto. Análisis de riesgo e incertidumbre.",
                     "requisitos": [
-                        "IND231"
+                        "IND283", "IND275"
                     ],
-                    "simultaneo": [],
+                    "simultaneo": ["IND282", "IND318"],
                     "creditosReq": "0",
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF273",
-                    "nombre": "Administración de la Función Informática",
-                    "creditos": "3.50",
+                    "codigo": "IND286",
+                    "nombre": "Laboratorio de automatización industrial",
+                    "creditos": "0.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
-                    "descripcion": "Estructura informática de la organización,unidad de gestión de la función informática: metas y objetivos, funciones, recursos humanos,infraestructura informática,sistemas de información,etc.Internet:intranets,extranets,e-commerce.Consideraciones: outsourcing, tecnologías emergentes, administración de cambios. Seguridad. Aspectos éticos y legales informáticos.",
-                    "requisitos": [
-                        "INF245"
-                    ],
-                    "simultaneo": [],
+                    "descripcion": "Instrumentación y procesos.Automatización con PLC.Supervisión y control de procesos industriales.Robótica en un contexto CIM. Integración, diseño, manufactura y CNC.",
+                    "requisitos": [],
+                    "simultaneo": ["IND221"],
                     "creditosReq": "0",
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF274",
-                    "nombre": "Administración de Sistemas Operativos y base de datos",
+                    "codigo": "IND291",
+                    "nombre": "Simulación de Sistemas",
                     "creditos": "4.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
-                    "descripcion": "Introducción a la Administración de Sistemas.Instalación del Sistema Operativo.Administración Local.Administración de redes y dominios.Seguridad de una red.Introducción a DBA:funciones del DBA,criterios para selección de unSABD.Sistemas administradores de bases de datos:esquema de almacenamiento,indexación y asociación,procesamiento de consultas,transacciones,concurrencia,recuperación.Administración de un sistema de bases de datos relacional.",
+                    "descripcion": "Introducción a la modelación y la simulación. Generación de números y variables aleatorias. Adquisición de datos. Definiciones para la simulación de eventos discretos. Simulación de modelos de eventos discretos. Submodelos. Animación de modelos de simulación. Análisis de modelos de simulación. Simulación Montecarlo. Introducción a las técnicas de reducción de varianza. Optimización y Simulación.",
                     "requisitos": [
-                        "INF238", "INF246"
+                        "IND281"
                     ],
                     "simultaneo": [],
                     "creditosReq": "0",
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF295",
-                    "nombre": "Planeamiento estratégico en informática",
+                    "codigo": "IND292",
+                    "nombre": "Análisis y Diseño de Sistemas",
                     "creditos": "3.50",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
-                    "descripcion": "Planeamiento y estrategias. Informática, tecnología y empresa. Procesos empresariales. Planeamiento estratégico: objetivos y metodologías. Alcances y contenido del planeamiento estratégico. Gestión del portafolio. Sistemas de información. Aspectos técnicos de tecnologías de información y de sistemas de información. Estrategias de ejecución y análisis de impacto. Gestión del conocimiento. Dirección estratégica y control estratégico.",
+                    "descripcion": "Temas preliminares.Planeamiento de la Función sistemas. Análisis de sistemas.Diseño de Sistemas.Diseño de bases de datos.Modelos y técnicas alternativas para análisis y diseño.Tareas posteriores y otras responsabilidades.",
+                    "requisitos": [],
+                    "simultaneo": ["IND282"],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND294",
+                    "nombre": "Sistemas Integrados de Producción",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Sistemas MRP/ERP. Organización del trabajo en la manufactura esbelta. Sistemas de producción justo a tiempo. Teoría de restricciones. Administración de inventarios. Tecnologías avanzadas de manufactura. Gestión de la tecnología. La estrategia de operaciones. Globalización de las operaciones.",
                     "requisitos": [
-                        "INF245", "IND231"
+                        "IND282", "IND221"
                     ],
                     "simultaneo": [],
                     "creditosReq": "0",
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF391",
-                    "nombre": "Proyecto de Tesis 1",
-                    "creditos": "2.00",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": ["INF392"],
-                    "descripcion": "La base de la gestión de la continuidad está conformada por políticas, guías, estándar y procedimientos implementados por una organización. Todo el diseño, implementación, soporte y mantenimiento de las TIC debe estar fundamentado en la obtención de un buen plan de continuidad del negocio, recuperación de desastres y en algunos casos, soporte al sistema.",
-                    "requisitos": [],
-                    "simultaneo": [
-                        "INF245", "1EST14"
-                    ],
-                    "creditosReq": "150",
-                    "electivo": "0"
-                },
-                {
-                    "codigo": "xxxxxx",
-                    "nombre": "Electivo Informática",
+                    "codigo": "IND296",
+                    "nombre": "Trabajo de Tesis 1",
                     "creditos": "3.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
-                    "descripcion": "--------",
+                    "descripcion": "Este es un curso de carácter formal, donde la facultad provee al estudiante de los recursos necesarios para realización de su tesis. El asesor es quien se encarga de supervisar y asegurar la calidad de dicho trabajo",
+                    "requisitos": ["IND282"],
+                    "simultaneo": [
+                        "IND232", "IND204"
+                    ],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND297",
+                    "nombre": "Laboratorio de Sistemas Integrados de Producción",
+                    "creditos": "1.00",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Integrados de Producción Operación de sistemas MRP.Implementación de sistemas MRP.Implementación de sistemas MRP.Manufactura integrada po rcomputadora.Manufactura integrada por computadora.",
                     "requisitos": [],
-                    "simultaneo": [],
+                    "simultaneo": ["IND294"],
                     "creditosReq": "70",
-                    "electivo": "1"
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND318",
+                    "nombre": "Gestión ambiental",
+                    "creditos": "3.50",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Introducción al desarrollo sostenible.Instrumentos de gestión ambiental.Fundamentos de ingeniería y gestión ambiental. Eco-diseño. Un sistema de gestión ambiental – ISO 14000 Responsabilidad social.",
+                    "requisitos": ["IND270"],
+                    "simultaneo": ["IND277"],
+                    "creditosReq": "0",
+                    "electivo": "0"
                 }
             ]
         },
@@ -856,99 +891,102 @@
             "id": "10",
             "cursos": [
                 {
-                    "codigo": "INF227",
-                    "nombre": "Desarrollo de Programas 2",
+                    "codigo": "IND201",
+                    "nombre": "Ética Profesional en Ingeniería Industrial",
                     "creditos": "3.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
-                    "descripcion": "Definición de requerimientos. Especificación de componentes. Desarrollo de un prototipo.Desarrollo de una versión preliminar o modesta. Documentación.",
+                    "descripcion": "Reflexiones sobre la crisis de valores y el sentido de la vida. Ética y Formación Profesional. Crisis y replanteamiento actual de la ética. La Objetividad moral y la formulación de principios morales. La conciencia moral. Tesis sobre la reconciliación en el Perú. Paz y civismo. Tolerancia cultural y paz. Derechos humanos. Los Valores. Verdad y honradez. Libertad y responsabilidad. Justicia. Prudencia. El valor de la familia. El valor de la vida. El bien común y el principio de subsidiariedad. Principios morales y la propiedad privada. La ética de la responsabilidad. Ética y desarrollo: La realidad económica y social de América Latina. Ética cristiana (conferencia). La teoría del desarrollo humano de Fowler: tercera, cuarta Etapa. Quinta etapa y sexta etapa. La obligación moral de comunicar la verdad. Principios morales y publicidad. El secreto profesional. La competencia y los principios morales. El soborno. Contratos como expresiones de justicia. Principios morales y legislación tributaria. Discusión de casos. Responsabilidad social empresarial. Códigos de conducta empresarial.",
+                    "requisitos": [],
+                    "simultaneo": ["IND232"],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND328",
+                    "nombre": "Gestión de Proyectos",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Marco Conceptual de la Dirección de Proyectos. Gestión de integración del proyecto. Gestión del alcance del proyecto. Gestión del tiempo del proyecto. Gestión del costo del proyecto. Control del proyecto. Gestión del riesgo del proyecto. Gestión de los recursos humanos del proyecto. Gestión de la calidad del proyecto. Gestión de compras y adquisiciones del proyecto. Gestión de la comunicación del proyecto",
                     "requisitos": [
-                        "INF226"
+                        "IND281"
                     ],
+                    "simultaneo": ["IND232"],
+                    "creditosReq": "0",
+                    "electivo": "0"
+                },
+                {
+                    "codigo": "IND298",
+                    "nombre": "Trabajo de Tesis 2",
+                    "creditos": "3.00",
+                    "permitido": "0",
+                    "aprobado": "0",
+                    "descripcion": "Desarrollo del tema de tesis.",
+                    "requisitos": ["IND296"],
                     "simultaneo": [],
                     "creditosReq": "0",
                     "electivo": "0"
                 },
                 {
-                    "codigo": "INF392",
-                    "nombre": "Proyecto de Tesis 2",
-                    "creditos": "4.00",
-                    "permitido": "0",
-                    "aprobado": "0",
-                    "cursosQueAbre": [],
-                    "descripcion": "El curso comprende la presentación los fundamentos teórico-prácticos relacionados a las formas actuales de gestionar la Continuidad de Negocios,tomando como base las prácticasdelBusiness Continuity Institute (BCI) (UK).",
-                    "requisitos": [
-                        "INF391"
-                    ],
-                    "simultaneo": [],
-                    "creditosReq": "170",
-                    "electivo": "0"
-                },
-                {
                     "codigo": "xxxxx1",
-                    "nombre": "Electivo Informática",
+                    "nombre": "Electivo Industrial",
                     "creditos": "3.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "--------",
                     "requisitos": [],
                     "simultaneo": [],
-                    "creditosReq": "70",
+                    "creditosReq": "160",
                     "electivo": "1"
                 },
                 {
                     "codigo": "xxxxx2",
-                    "nombre": "Electivo Informática",
+                    "nombre": "Electivo Industrial",
                     "creditos": "3.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "--------",
                     "requisitos": [],
                     "simultaneo": [],
-                    "creditosReq": "70",
+                    "creditosReq": "160",
                     "electivo": "1"
                 },
                 {
                     "codigo": "xxxxx3",
-                    "nombre": "Electivo Informática",
+                    "nombre": "Electivo Industrial",
                     "creditos": "3.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "--------",
                     "requisitos": [],
                     "simultaneo": [],
-                    "creditosReq": "70",
+                    "creditosReq": "160",
                     "electivo": "1"
                 },
                 {
                     "codigo": "xxxxx4",
-                    "nombre": "Electivo Informática",
-                    "creditos": "3.00",
+                    "nombre": "Electivo Industrial",
+                    "creditos": "2.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "--------",
                     "requisitos": [],
                     "simultaneo": [],
-                    "creditosReq": "70",
+                    "creditosReq": "160",
                     "electivo": "1"
                 },
                 {
-                    "codigo": "xxxxx5",
-                    "nombre": "Electivo Informática",
-                    "creditos": "3.00",
+                    "codigo": "1TIB39",
+                    "nombre": "Trabajo de Investigación para Bachillerato",
+                    "creditos": "0.00",
                     "permitido": "0",
                     "aprobado": "0",
-                    "cursosQueAbre": [],
                     "descripcion": "--------",
                     "requisitos": [],
                     "simultaneo": [],
-                    "creditosReq": "70",
-                    "electivo": "1"
+                    "creditosReq": "160",
+                    "electivo": "0"
                 }
             ]
         }

@@ -1,0 +1,54 @@
+.Home {
+    background-image: url(https://files.pucp.education/puntoedu/wp-content/uploads/2019/04/02193325/Campus-a%C3%A9rea-690x468.jpg);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-size: 100vw;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+.Home_form {
+    padding: 2em;
+    margin: auto;
+    width: max-content;
+    text-align: center;
+    border-radius: 24px;
+    background: rgb(255 255 255 / 0.88);
+}
+.Home_Fgroup {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 1em;
+}
+.Home_inputText {
+    border: 1.5px solid black;
+    border-radius: 5px;
+    padding: 2px;
+}
+.Home_especialidades {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.Especialidad {
+    border: 2.5px solid black;
+    border-radius: 10px;
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    background: white;
+    padding: 5px;
+}
+.Especialidad img {
+    width: 80px;
+}
+.Home_btn {
+    border: 1.5px solid black;
+    border-radius: 12px;
+    font-size: 15px;
+    padding: 5px 16px;
+    font-family: inherit;
+    background: #c6c6c6;
+    font-weight: bold;
+}

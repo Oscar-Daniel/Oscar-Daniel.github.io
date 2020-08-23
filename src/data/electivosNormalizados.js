@@ -1,5 +1,5 @@
 import { schema, normalize } from 'normalizr';
-import data from './electivos.json'
+import data from './industrial/electivos.json'
 
 const electivo = new schema.Entity("electivos", {}, {
     idAttribute: 'codigo',

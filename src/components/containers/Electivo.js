@@ -16,11 +16,6 @@ function colorCreditos(color) {
 }
 
 class Electivo extends React.Component {
-    state = {
-        color: "",
-        colorCred: ""
-}
-
     handleClick = () => {
         // this.props.modificarValoresElectivo(this.props.id)
         this.props.abrirModal(false,"")
@@ -28,25 +23,25 @@ class Electivo extends React.Component {
 
     render() {
         this.props.estoyPermitido(this.props.requisitos, this.props.simultaneo, this.props.creditosReq, "electivo", this.props.id)
-        this.state.color = (Number(this.props.permitido)===1)? "#40A1ED" : "#ED4040";
-        this.state.colorCred = colorCreditos(this.state.color)
+        const color = (Number(this.props.permitido)===1)? "#40A1ED" : "#ED4040";
+        const colorCred = colorCreditos(color)
         return (
-            <div className="Electivo" onClick={this.handleClick} style={{background: `${this.state.color}`}}>
+            <div className="Electivo" onClick={this.handleClick} style={{background: `${color}`}}>
                     <h5>{this.props.codigo}</h5>
                     <h4>{this.props.nombre}</h4>
                     <h5>{this.props.creditos}</h5>
-                    <div className="Electivo_credReq" style={{background: this.state.colorCred}}>
-                            { (Number(this.props.creditosReq)!==0) && this.props.creditosReq + "cdts."}
+                    <div className="Electivo_credReq" style={{background: colorCred}}>
                             { (Number(this.props.requisitos.size)!==0) && this.props.requisitos.map((codigo, index) => {
                                 const comma = (index<this.props.requisitos.size-1)? ', ' : ' ';
                                 return `${codigo}${comma} `;
-                                })
-                            }
+                            })
+                        }
                             { (Number(this.props.simultaneo.size)!==0) && this.props.simultaneo.map((codigo, index) => {
                                 const comma = (index<this.props.simultaneo.size-1)? ', ' : '';
                                 return `[${codigo}${comma}]`;
-                                })
-                            }
+                            })
+                        }
+                        { (Number(this.props.creditosReq)!==0) && this.props.creditosReq + "cdts."}
                     </div>
             </div>
         )

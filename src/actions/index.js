@@ -119,3 +119,14 @@ export const cambiarNombre = (nombre) => dispatch => {
         payload: nombre
     })
 }
+
+export const buscarDataEspecialidad = esp => dispatch => {
+
+    // const response = await fetch(`https://github.com/Oscar-Daniel/API-server/blob/master/${esp}.json`)
+    // const data = response.json()
+    // console.log(data)
+    // dispatch({
+    //     type: 'DATA',
+    //     payload: data
+    // })
+}

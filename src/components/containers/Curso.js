@@ -23,25 +23,17 @@ function colorCreditos(color) {
 
 class Curso extends React.Component {
 
-    constructor(props) {
-        super(props);
-        this.state = {
-            color: "",
-            credColor: "",
-            modalActive: false
-        };
-    }
     handleClick = () => {
         this.props.modificarAprobado(this.props.permitido, this.props.aprobado, this.props.id)
         this.props.modificarCreditos()
     }
     render() {
         this.props.estoyPermitido(this.props.requisitos, this.props.simultaneo, this.props.creditosReq, this.props.aprobado, this.props.id)
-        this.state.color = retornarColor(this.props.permitido, this.props.aprobado)
-        this.state.credColor = colorCreditos(this.state.color)
+        const color = retornarColor(this.props.permitido, this.props.aprobado)
+        const credColor = colorCreditos(color)
         return (
             <div className="Curso" >
-                <div className="Curso_datos" style={{background: `${this.state.color}`}} onClick={this.handleClick}>
+                <div className="Curso_datos" style={{background: `${color}`}} onClick={this.handleClick}>
                     {
                         (Number(this.props.electivo)===0) && <h5>{this.props.codigo}</h5>
                     }
@@ -49,13 +41,13 @@ class Curso extends React.Component {
                     <h5>{this.props.creditos}</h5>
                 {
                     (Number(this.props.creditosReq)!==0) && 
-                    <div className="Curso_credReq" style={{background: `${this.state.credColor}`}}><strong>{this.props.creditosReq}</strong> cdts.</div>
+                    <div className="Curso_credReq" style={{background: `${credColor}`}}><strong>{this.props.creditosReq}</strong> cdts.</div>
                 }
                 </div>
                 {
                     (Number(this.props.electivo)!==0) && 
                     <div className="Curso_esElectivo_E" 
-                        style={{'border': `4px solid ${this.state.credColor}`}} 
+                        style={{'border': `4px solid ${credColor}`}} 
                         onClick={()=>this.props.abrirModal(true, this.props.id)}> E </div>
                 }
             </div>

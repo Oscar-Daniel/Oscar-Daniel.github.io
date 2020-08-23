@@ -11,10 +11,12 @@ export default function data (state = initial_state, action) {
             return state.setIn(['entities', 'cursos', action.payload.id, 'permitido'], action.payload.permitido)
         case 'MODIFICAR_APROBADO':
             return state.setIn(['entities', 'cursos', action.payload.id, 'aprobado'], action.payload.aprob)
-        case 'MODIFICAR_VALORES_ELECTIVO':
-            const {nombre, creditos, creditosReq, requisitos, simultaneo } = action.payload.nuevosDatos
+        case 'DATA':
+            return state.set(...action.payload)
+        // case 'MODIFICAR_VALORES_ELECTIVO':
+        //     const {nombre, creditos, creditosReq, requisitos, simultaneo } = action.payload.nuevosDatos
 
-            return state.mergeIn(['entities', 'cursos', action.payload.id], {nombre, creditos, creditosReq, requisitos, simultaneo})
+        //     return state.mergeIn(['entities', 'cursos', action.payload.id], {nombre, creditos, creditosReq, requisitos, simultaneo})
         default:
             return state;
     }

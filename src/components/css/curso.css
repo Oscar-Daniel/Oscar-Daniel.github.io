@@ -1,26 +1,27 @@
 .Curso {
-    margin: 16px 0;
+    margin: 12px 0;
     position: relative;
 }
 .Curso_datos {
-    border-radius: 50px;
+    border-radius: 32px;
     box-shadow: 2.5px 2.5px 5px 1px;
-    padding: 22px 10px;
-    width: auto;
-    height: 100%;
+    padding: 12px 4px;
 }
 .Curso h5 {
     margin: 0;
+    font-size: 12px;
 }
 .Curso h4 {
     margin: 8px;
+    font-size: 13px;
 }
 .Curso_credReq {
     position: absolute;
-    top: -9px;
-    right: -12px;
-    padding: 4px;
+    top: -8px;
+    right: -9px;
+    padding: 3px 6px;
     border-radius: 50px;
+    font-size: 12px;
 }
 .Curso_esElectivo {
     position: absolute;
@@ -29,11 +30,11 @@
     left: 0;
 }
 .Curso_esElectivo_E {
-    padding: 5px 10px;
+    padding: 2px 8px;
     font-weight: bold;
     position: absolute;
     border-radius: 50%;
-    top: -8px;
+    top: -10px;
     left: -8px;
     background: white;
 }
